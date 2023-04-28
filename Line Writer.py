@@ -8,4 +8,6 @@ while True:
     choice = input("Are there more lines? y/n : ")
     if choice == "n" :
         break
-    
+
+# Close and save the file
+file.close
