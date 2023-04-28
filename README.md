@@ -6,6 +6,7 @@ The  program asks the user to enter lines of text that will be inputted in a sep
 ## Running The Program
 
 1. The file that will be created will depend on what file name you want it to be. That being said, make sure to change the code with the corresponding file name that you want. See the image below on where to change the file name of the .txt file.
+
 ![image](https://user-images.githubusercontent.com/130126464/235191209-c86a2063-02c3-4a60-b739-7dfd3a8eeedf.png)
 
 2. Running the program would ask the user to enter a line. Go ahead and enter a series of texts.
